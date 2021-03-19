@@ -1,0 +1,57 @@
+body {
+    background: tomato;
+}
+.box {
+    padding: 10px 10px 10px 10px;
+    width: 1000px;
+    height: 50px;
+    background: white;
+    display: flex;
+    justify-content: space-around;
+    margin: 1px auto;
+    border: 5px solid silver;
+    border-radius: 5px;
+}
+.box1 { padding: 10px 10px 10px 10px;
+    width: 1000px;
+    height: 35px;
+    background: white;
+    display: flex;
+    justify-content: space-around;
+    margin: 1px auto;
+    border: 5px solid silver;
+    border-radius: 5px;
+
+}
+.box3{
+    padding: 10px 10px 10px 10px;
+    width: 690px;
+    height: 400px;
+    background: white;
+    margin: 1px;
+    border: 5px solid silver;
+    border-radius: 5px;
+    justify-content: left;
+}
+.box4{
+    padding: 10px 10px 10px 10px;
+    width: 280px;
+    height: 400px;
+    background: white;
+    margin: 1px;
+    border: 5px solid silver;
+    border-radius: 5px;
+    justify-content: left;
+}
+.fathet{
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.point{
+    text-align: center;
+}
